@@ -1,0 +1,29 @@
+.text-center{
+    text-align: center;   
+    color: aliceblue; 
+}
+.bg-red{
+    background: red; 
+}
+.mx-auto{
+    margin: auto; 
+}
+.flex{
+    display: flex; 
+}
+.flex-col{
+    flex-direction: column; 
+}
+.items-center{
+    align-items: center;  
+}
+#try{
+    background-color: rgb(1, 1, 114);  
+    color: white; 
+}
+.a{
+    background-color: yellow; 
+}
+#try1{
+    background-color: red;  
+}
